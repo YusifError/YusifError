@@ -1,5 +1,5 @@
 ## Hi there 👋
-## My name is Yusif! I'm Full Stack developer
+## My name is Yusif! I like write code and make the world a better 😄
 
 <!--
 **YusifError/YusifError** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
